@@ -10,4 +10,4 @@ methods:
 clean_table (modifies is_clean to true)
 add_seat (+1 to number_of_seats)
 paint_table_red (changes table_color to "red")
-move_table_away_from_kitchen (+ distance to distance_from_kitchen)
+move_table_away_from_kitchen (+1 distance to distance_from_kitchen)

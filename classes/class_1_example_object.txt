@@ -1,0 +1,13 @@
+instance: Table_3
+
+attributes:
+is_clean = false
+number_of_seats = 2
+table_color = green
+distance_from_kitchen = 8.3
+
+methods:
+clean_table: is_clean = true
+add_seat: number_of_seats = 3
+paint_table_red: table_color = red
+move_table_away_from_kitchen: distance_from_kitchen = 9.3

@@ -1,0 +1,13 @@
+instance: employee
+
+attributes:
+skills (array)
+is_on_time (boolean)
+job_type (string)
+hourly_pay (float)
+
+methods:
+add_skill (add new string to skills)
+clock_in_on_time (modifies is_on_time to true)
+promote (changes job_type)
+give_raise (increase hourly_pay)

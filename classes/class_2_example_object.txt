@@ -1,0 +1,13 @@
+instance: Wyatt
+
+attributes:
+skills = ["speaks spanish", "cooks", "knows grill station"]
+is_on_time = false
+job_type = "chef"
+hourly_pay = 16.75
+
+methods:
+add_skill: skills = ["speaks spanish", "cooks", "knows grill station", "first aid"]
+clock_in_on_time: is_on_time = true
+promote: job_type = "head chef"
+give_raise: hourly_pay = 17.75

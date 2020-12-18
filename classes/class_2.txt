@@ -1,4 +1,4 @@
-instance: employee
+instance: Employee
 
 attributes:
 skills (array)

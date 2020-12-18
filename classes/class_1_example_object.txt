@@ -1,4 +1,4 @@
-instance: Table_3
+instance: TableThree
 
 attributes:
 is_clean = false
